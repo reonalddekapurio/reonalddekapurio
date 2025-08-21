@@ -1,4 +1,6 @@
-<h1> Hi there ⚡️</h1> 
+<h1> Hi there  
+  <img width="40px" src="https://github.com/user-attachments/assets/1ee8019d-0794-46ac-8c60-b26c770208e6" />
+</h1> 
 
 <!--
 **reonalddekapurio/reonalddekapurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
