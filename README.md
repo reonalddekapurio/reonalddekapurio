@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there ⚡️</h1> 
+<h1> Hi there ⚡️</h1> 
 
 <!--
 **reonalddekapurio/reonalddekapurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,18 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reonalddekapurio) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reonalddekapurio&layout=compact) 
-</div>  
+  
 
-<h2 align="center" >
+<h2>
   技術スタック 💪
 </h2>
 
-<p align="center">
+<h3>
+  言語&フレームワーク 
+</h3>
+
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nextjs,figma,ai,ps,pr,docker,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nextjs" />
   </a>
 </p>
+
+<h3>
+  デザインツール
+</h3>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr," />
+  </a>
+</p>
+
+<h3>
+  開発ツール
+</h3>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,github" /> 
+  </a>
+</p>
+
  
