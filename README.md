@@ -1,26 +1,15 @@
 <h1>
-  Hi there
+  About Me
   <img src="https://media.tenor.com/p58rSbDQZMoAAAAi/umamusumeprettyderby.gif" 
        alt="ウマ娘 Pretty Derby" 
        width="50" />
 </h1>
 
+- **フロントエンドとデザインを頑張ってる学生です**
+- **フルスタックが目標**
+- **やる気　勇気　退勤**
 
-
-<!--
-**reonalddekapurio/reonalddekapurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
   <div>
     
@@ -28,7 +17,8 @@ Here are some ideas to get you started:
     
  
 </div>
-  
+
+  <br>
 
 <h2>
   技術スタック 💪
