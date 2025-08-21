@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
   <div>
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reonalddekapurio) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reonalddekapurio&layout=compact)  <img src="https://media.tenor.com/Hji3lV_aF_oAAAAi/girls-band-cry-gbc.gif" 
-       width="200" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reonalddekapurio) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reonalddekapurio&layout=compact)  
     
  
 </div>
@@ -34,36 +33,38 @@ Here are some ideas to get you started:
 <h2>
   技術スタック 💪
 </h2>
-
-<h3>
-  言語&フレームワーク 
-</h3>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nextjs" />
-  </a>
-</p>
-
-<h3>
-  デザインツール
-</h3>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr," />
-  </a>
-</p>
-
-<h3>
-  開発ツール
-</h3>
-
-<p>
-  <a href="https://skillicons.dev">
+<div>
+  <h3>
+    言語&フレームワーク 
+  </h3>
+  
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nextjs" />
+    </a>
+  </p>
+  
+  <h3>
+    デザインツール
+  </h3>
+  
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr," />
+    </a>
+  </p>
+  
+  <h3>
+    開発ツール
+  </h3>
+  
+  <p>
+    <a href="https://skillicons.dev">
+    </a>
     <img src="https://skillicons.dev/icons?i=docker,github" /> 
-  </a>
-</p>
+  </p>
+</div>
+
 
 
 
