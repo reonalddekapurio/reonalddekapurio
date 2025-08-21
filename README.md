@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reonalddekapurio) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reonalddekapurio&layout=compact) 
+  <div>
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reonalddekapurio) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reonalddekapurio&layout=compact)  <img src="https://media.tenor.com/Hji3lV_aF_oAAAAi/girls-band-cry-gbc.gif" 
+       width="200" />
+    
+ 
+</div>
   
 
 <h2>
@@ -59,5 +64,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=docker,github" /> 
   </a>
 </p>
+
+
 
  
