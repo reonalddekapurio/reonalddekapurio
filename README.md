@@ -40,7 +40,7 @@
   
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr," />
+      <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr" />
     </a>
   </p>
   
