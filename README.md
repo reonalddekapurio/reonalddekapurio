@@ -51,7 +51,7 @@
   <p>
     <a href="https://skillicons.dev">
     </a>
-    <img src="https://skillicons.dev/icons?i=docker,github" /> 
+    <img src="https://skillicons.dev/icons?i=docker,github,git" /> 
   </p>
 </div>
 
