@@ -24,12 +24,22 @@
 </h2>
 <div>
   <h3>
-    言語&フレームワーク 
+    言語
   </h3>
   
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nextjs,react,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,ts" />
+    </a>
+  </p>
+
+  <h3>
+    フレームワーク 
+  </h3>
+  
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
     </a>
   </p>
   
