@@ -39,7 +39,7 @@
   
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
     </a>
   </div>
 
@@ -49,7 +49,7 @@
   
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=htmx" />
+      <img src="https://skillicons.dev/icons?i=react,htmx" />
     </a>
   </div>
   
