@@ -42,6 +42,16 @@
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
     </a>
   </div>
+
+  <h3>
+    ライブラリ
+  </h3>
+  
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=htmx" />
+    </a>
+  </div>
   
   <h3>
     デザインツール
