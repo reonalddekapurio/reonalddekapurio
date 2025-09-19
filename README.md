@@ -27,41 +27,41 @@
     言語
   </h3>
   
-  <p>
+  <div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,py,ts" />
     </a>
-  </p>
+  </div>
 
   <h3>
     フレームワーク 
   </h3>
   
-  <p>
+  <div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
     </a>
-  </p>
+  </div>
   
   <h3>
     デザインツール
   </h3>
   
-  <p>
+  <div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr" />
     </a>
-  </p>
+  </div>
   
   <h3>
     開発ツール
   </h3>
   
-  <p>
+  <div>
     <a href="https://skillicons.dev">
     </a>
     <img src="https://skillicons.dev/icons?i=docker,github,git" /> 
-  </p>
+  </div>
 </div>
 
 <div align="center">
