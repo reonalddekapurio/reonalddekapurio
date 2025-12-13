@@ -68,7 +68,7 @@
         <a href="https://github.com/Gran-App-Vantan/Indian-Poker">Indian-Poker</a>
     </th>
     <th width="50%">
-        <a href="https://github.com/kdg25-project/real-post">RealPost</a>
+        <a href="https://github.com/kdg25-project/real-post">VANX</a>
     </th>
   </tr>
   <tr>
@@ -76,6 +76,16 @@
         <img src="https://github.com/Gran-App-Vantan/Indian-Poker/blob/dev/frontend/next-poker/public/start/GameImage1.png"/>
      </td>
     <td width="50%">
+        <img src="https://github.com/Gran-App-Vantan/vanx-frontend/blob/dev/readmeImage/banner.png"/>
+     </td>
+  </tr>
+  <tr>
+    <th width="50%">
+        <a href="https://github.com/kdg25-project/real-post">RealPost</a>
+    </th>
+  </tr>
+  <tr>
+     <td width="50%">
         <img src="https://github.com/user-attachments/assets/001dc76b-8d6e-4327-85ed-c259f7bba7cf" />
      </td>
   </tr>
