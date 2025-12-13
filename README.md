@@ -76,7 +76,7 @@
         <img src="https://github.com/Gran-App-Vantan/Indian-Poker/blob/dev/frontend/next-poker/public/start/GameImage1.png"/>
      </td>
     <td width="50%">
-        <img src="https://github.com/Gran-App-Vantan/vanx-frontend/blob/dev/readmeImage/banner.png"/>
+        <img src="https://github.com/Gran-App-Vantan/vanx-frontend/blob/dev/readmeImage/profile-image.png"/>
      </td>
   </tr>
   <tr>
