@@ -57,7 +57,7 @@
   </tr>
    <tr>
      <td width="50%">
-        <img width="1470" height="956" alt="スクリーンショット 2025-12-10 12 02 49" src="https://github.com/user-attachments/assets/cb4f76dd-2f17-43d7-b86c-860c510da565" />
+        <img alt="スクリーンショット 2025-12-14 8 50 53" src="https://github.com/user-attachments/assets/411ffcfd-8470-41e6-99e9-8e89eaade346" />
      </td>
       <td width="50%">
         <img src="https://github.com/reonalddekapurio/MantanAteam/blob/main/READMEIMG/gamen3.png"/>
