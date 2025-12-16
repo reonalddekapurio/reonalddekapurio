@@ -68,7 +68,7 @@
         <a href="https://github.com/Gran-App-Vantan/Indian-Poker">Indian-Poker</a>
     </th>
     <th width="50%">
-        <a href="https://github.com/kdg25-project/real-post">VANX</a>
+        <a href="https://github.com/Gran-App-Vantan/vanx-frontend">VANX</a>
     </th>
   </tr>
   <tr>
