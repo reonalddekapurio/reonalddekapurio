@@ -49,7 +49,7 @@
 <table>
   <tr>
     <th width="50%">
-        <a href="https://github.com/reonalddekapurio/TechJamIteam">飯っぱら</a>
+        <a href="https://github.com/reonalddekapurio/TechJamIteam">めしっぱら</a>
     </th>
      <th width="50%">
         <a href="https://github.com/reonalddekapurio/MantanAteam">マンタン タブレット注文</a>
