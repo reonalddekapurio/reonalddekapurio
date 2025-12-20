@@ -31,7 +31,7 @@
         <a href="https://kaitoridaikichi-higashifukunocho.jp/">買取大吉 東福野町店</a>
     </th>
     <th>
-      <a href="https://github.com/reonalddekapurio/Banner-display-confirmation-site">買取大吉 ピアゴ川辺店</a>
+      <a href="https://kaitoridaikichi-piagokawabe.jp/">買取大吉 ピアゴ川辺店</a>
     </th>
   </tr>
   <tr>
