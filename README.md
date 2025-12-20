@@ -108,10 +108,16 @@
     <th width="50%">
         <a href="https://github.com/kdg25-project/real-post">RealPost</a>
     </th>
+     <th width="50%">
+        <a href="https://github.com/reonalddekapurio/Honmono">学内新聞アプリ ホンモノ (製作中)</a>
+    </th>
   </tr>
   <tr>
      <td width="50%">
         <img src="https://github.com/user-attachments/assets/001dc76b-8d6e-4327-85ed-c259f7bba7cf" />
+     </td>
+    <td width="50%">
+        <img src="" />
      </td>
   </tr>
 </table>
