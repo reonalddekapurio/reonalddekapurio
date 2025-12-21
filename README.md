@@ -36,10 +36,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/b2e6bfb4-5857-42c0-9755-336b9e9a1328" />
+      <img src="" />
     </td>
      <td width="50%">
-      <img src="https://github.com/user-attachments/assets/f985384d-e70a-4087-b034-764b3128ee3c" />
+      <img src="" />
     </td>
   </tr>
 </table>
