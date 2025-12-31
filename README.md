@@ -1,8 +1,5 @@
 <h1>
   私について
-  <img src="https://media.tenor.com/p58rSbDQZMoAAAAi/umamusumeprettyderby.gif" 
-       alt="ウマ娘 Pretty Derby" 
-       width="50" />
 </h1>
 
 
