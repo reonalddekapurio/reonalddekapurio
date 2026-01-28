@@ -172,7 +172,7 @@
   
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr" />
+      <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr,blender" />
     </a>
   </div>
 
