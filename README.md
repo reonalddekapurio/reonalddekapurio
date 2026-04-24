@@ -107,7 +107,7 @@
     </th>
      <th width="50%">
         <a href="https://introduction-site-amber.vercel.app/">中山奈々 紹介サイト</a>
-    </th>![Uploading スクリーンショット 2026-04-24 12.08.28.png…]()
+    </th>
 
   </tr>
   <tr>
