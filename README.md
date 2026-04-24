@@ -106,15 +106,16 @@
         <a href="https://github.com/kdg25-project/real-post">RealPost</a>
     </th>
      <th width="50%">
-        <a href="https://github.com/reonalddekapurio/Honmono">学内新聞アプリ ホンモノ (製作中)</a>
-    </th>
+        <a href="https://introduction-site-amber.vercel.app/">中山奈々 紹介サイト</a>
+    </th>![Uploading スクリーンショット 2026-04-24 12.08.28.png…]()
+
   </tr>
   <tr>
      <td width="50%">
         <img src="https://github.com/user-attachments/assets/001dc76b-8d6e-4327-85ed-c259f7bba7cf" />
      </td>
     <td width="50%">
-        <img src="" />
+        <img src="https://github.com/user-attachments/assets/75816f27-997d-4aea-bf9b-bd01330ec3b8" />
      </td>
   </tr>
 </table>
