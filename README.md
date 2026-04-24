@@ -74,7 +74,7 @@
         <a href="https://github.com/reonalddekapurio/TechJamIteam">めしっぱら</a>
     </th>
      <th width="50%">
-        <a href="https://github.com/reonalddekapurio/MantanAteam">マンタン タブレット注文</a>
+        <a href="https://26-techjam.vercel.app/">ぬいとくらす</a>
     </th>
   </tr>
    <tr>
@@ -82,7 +82,7 @@
         <img alt="スクリーンショット 2025-12-14 8 50 53" src="https://github.com/user-attachments/assets/411ffcfd-8470-41e6-99e9-8e89eaade346" />
      </td>
       <td width="50%">
-        <img src="https://github.com/reonalddekapurio/MantanAteam/blob/main/READMEIMG/gamen3.png"/>
+       <img width="1280" height="680" alt="スクリーンショット 2026-04-24 12 15 22" src="https://github.com/user-attachments/assets/ac41fa5b-958a-44da-9f8c-6249a2910165" />
      </td>
   </tr>
   <tr> 
