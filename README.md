@@ -64,12 +64,12 @@
   </tr>
   <tr>
     <th>
-      <a href="https://github.com/reonalddekapurio/demna-balenciaga-library">DemnaBalenciagaLibrary(製作中)</a>
+      <a href="https://github.com/reonalddekapurio/demna-balenciaga-library">DemnaBalenciagaLibrary</a>
     </th>
   </tr>
   <tr>
      <td width="50%">
-      <img src="https://github.com/user-attachments/assets/34a79145-991a-440b-8004-51bb2e010188" />
+      <img src="https://github.com/user-attachments/assets/73adca07-c309-47b2-b02b-d1c531285453" />
     </td>
   </tr>
 </table>
